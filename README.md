@@ -15,7 +15,9 @@ Also be sure to change Github username in HTML path in both 'removeRep.py' and '
 
 We have a few options here...
 
+```bash
 'create.py <name of your folder/project>' -> Creates a Repository for your Project as well as a folder in your path selected
 'removeRep.py <name of your folder/project>' -> Removes the repository by browser automation
 'delete.py <name of your folder/project>' - Deletes folder from os from path selected
 'terminate.py <name of your folder/project>' - Terminates BOTH Respository and Project (Basically 'removeRep.py' and 'delete.py' together)
+```
