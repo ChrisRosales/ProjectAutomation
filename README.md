@@ -19,4 +19,3 @@ We have a few options here...
 ```bash 'removeRep.py <name of your folder/project>' ``` -> Removes the repository by browser automation
 ```bash 'delete.py <name of your folder/project>' ``` - Deletes folder from os from path selected
 ```bash 'terminate.py <name of your folder/project>' ``` - Terminates BOTH Respository and Project (Basically 'removeRep.py' and 'delete.py' together)
-```
