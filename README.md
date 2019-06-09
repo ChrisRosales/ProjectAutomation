@@ -1,7 +1,7 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 
 
-### Install:
+### Installation Guide:
 
 ```bash
 git clone "https://github.com/ChrisRosales/ProjectAutomation.git"
